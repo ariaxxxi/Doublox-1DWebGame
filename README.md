@@ -1,11 +1,5 @@
-# 4.043 Design Studio: Interaction Intelligence
+# 1D Game - Doublox
 
-Overview of core principles and techniques for the design of interaction, behavior and intelligence across objects and spaces. In a studio environment, students develop low and high-fidelity interactive prototypes that can be deployed and experienced by real users. Lectures cover the history and principles of human-computer interaction, behavior prototyping, physical and graphical user interfaces, machine intelligence, neural networks, and large language models. Provides a foundation in technical skills, such as physical prototyping, coding, and electronics, as well as how to collect data, train and deploy your own neural network models. Students complete a small interaction exercise and a portfolio-level final project. 
+PushBox is a 1D co-op puzzle game where two players, controlling a white cube and a black cube respectively, must work together to solve puzzles and progress through levels. The goal of the game is to push the colored boxes colliding with the boxes of the same color.
 
-## Project 1: 1D Interface
-
-We will start the course by creating a 1D game and a custom joystick for controlling it. Students will learn techniques for in-hardware sketching and prototyping, creating state diagrams, building their own electronics, designing a graphical user interface, coding, as well as techniques for evaluating and critiquing interaction and interface design. We will explore the use of large language models such as GitHub co-pilot, Dall-E, and Midjourney for coding and design generation.
-
-## Project 2: Large Language Objects (LLO)
-
-Large language models (LLM), such as GPT-3 or Dall-E, have shown a remarkable ability to generate human-like text, summarize long documents, answer questions, and even perform simple programming tasks, promising to have a profound impact on several industries and disciplines. However, these models remain largely ignorant of the world outside of language, lacking context and knowledge of physical things and our environments. In Project 2, we will design physical interfaces for large language models, extending their capabilities and augmenting human experience. By exploring how these models work, we will also examine their shortcomings, such as bias, lack of interpretability, computational cost, privacy, and inability to generalize.
+<img width="1789" alt="Screenshot 2023-07-07 at 10 54 06 PM" src="https://github.com/ariaxxxi/1D-Game---Push-Box/assets/87568028/05c9a030-d194-429e-a8a6-cce8d31fb252">
